@@ -35,10 +35,10 @@ This project recreates the cinematic landing page experience of a modern OTT pla
 <img width="100%" src="./Pre-view-imgs/trending.png" />
 
 ### Features Section
-<img width="100%" src="./Pre-view-imgs/feature.png" />
+<img width="100%" src="./Pre-view-imgs/footer.png" />
 
 ### Footer & FAQ
-<img width="100%" src="./Pre-view-imgs/footer.png" />
+<img width="100%" src="./Pre-view-imgs/feature.png" />
 
 ---
 
